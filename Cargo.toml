@@ -1,0 +1,11 @@
+[package]
+name = "rs-javascript"
+version = "0.1.0"
+edition = "2021"
+description = "RS-JavaScript: a from-scratch Rust JavaScript (ES spec) tokenizer/parser/execution-engine, developed independently of RS-TypeScript (type-annotation-stripping transpiler) — no existing JS engine code is reused."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/aon-co-jp/RS-JavaScript"
+
+[dependencies]
+
+[workspace]
