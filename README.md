@@ -1,3 +1,5 @@
+> Latest translations / 翻訳の最新版: [0-LATEST-TRANSLATIONS.md](0-LATEST-TRANSLATIONS.md)
+
 # RS-JavaScript
 
 JavaScript(ECMAScript仕様)自体のトークナイザ・パーサー・実行エンジンを、
